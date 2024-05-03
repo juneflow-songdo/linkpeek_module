@@ -1,7 +1,7 @@
 name: linkpeek_module
 description: "get metadata from link and example"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/linkpeek_module
 
 version: 1.0.0
 
