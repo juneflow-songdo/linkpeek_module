@@ -1,0 +1,25 @@
+name: linkpeek_module
+description: "get metadata from link and example"
+#publish_to: 'none'
+#repository: https://github.com/melodysdreamj/juneflow
+
+version: 1.0.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  go_router:
+  june_flow_util:
+  linkpeek: #@add
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/module/linkpeek_module/
+  uses-material-design: true
